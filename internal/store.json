@@ -1,7 +1,7 @@
 {
     "terraform": {
         "github_repo": "hashicorp/terraform",
-        "version": "v0.11.13",
+        "version": "v0.12.5",
         "template_key": "TERRAFORM_VERSION",
         "remove_prefix": "v"
     },
