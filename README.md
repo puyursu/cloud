@@ -9,7 +9,7 @@ This repository contains a Dockerfile that will build a **Ubuntu Bionic** (18.04
 ## Software included
 
 Cloud tools and SDKs:
-* Terraform **(0.11.13)**
+* Terraform **(0.12.5)**
 * Packer **(1.4.0)**
 * Ansible **(v2.7.1)**
 * AWS [CLI](https://aws.amazon.com/cli/) and Python [SDK - boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
